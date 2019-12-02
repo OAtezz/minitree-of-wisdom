@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-const int redPin = 11; 
+const int redPin = 11; //assign pin of RGB-lighting
 const int greenPin = 10;
 const int bluePin = 9;
 unsigned long time = 100;
